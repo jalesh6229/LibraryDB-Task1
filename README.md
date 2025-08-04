@@ -21,12 +21,6 @@ Design and implement a well-structured relational database schema for a Library 
 - **Members**: Registered library members
 - **Loans**: Tracks which member borrowed which book and when
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Open `pgAdmin` and create a database named `librarydb`.
-3. Open the `schema_pg.sql` file in Query Tool and execute it.
-4. Use `ER-diagram.png` to understand table relationships.
-
 ---
 
 ### 📌 Outcome
